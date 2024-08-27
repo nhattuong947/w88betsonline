@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+W88 - w88bets.online - Nhà Cái Hàng Đầu Việt Nam Với Công Nghệ Tiên Tiến Và Dịch Vụ Xuất Sắc
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`W88 <https://w88bets.online/>`_, thành lập vào tháng 8 năm 2013, là nhà cái hàng đầu tại Việt Nam trong lĩnh vực cá cược thể thao, casino trực tuyến và slot game online. W88 cung cấp một loạt các trò chơi hấp dẫn, bao gồm casino, thể thao, slot game và bắn cá, với các khuyến mãi rõ ràng và thời gian rút tiền nhanh chóng chỉ trong 5 phút. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+W88 cũng phát triển ứng dụng dành cho di động, hỗ trợ người chơi trên Android, IOS và các thiết bị tablet. Với sự nổi bật trong các kèo cược thể thao và các trò chơi casino chất lượng, W88 luôn là lựa chọn hàng đầu cho những ai tìm kiếm một nhà cái uy tín và lâu dài.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 8/6F ấp Mỹ Hòa 1, Xuân Thới Đông, Hóc Môn, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0893268998. 
 
-.. toctree::
+Email: info@w88bets.online. 
 
-   usage
-   api
+Website: https://w88bets.online/
+
+#w88 #nhacaiw88 #trangchuw88 #dangkyw88 #linkw88
